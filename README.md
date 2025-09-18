@@ -4,7 +4,7 @@ Comprehensive analysis comparing decision trees, ensemble methods, and neural ne
 
 ## Summary
 
-Developed a rigorous framework for comparing ML model families, achieving optimal performance with Gradient Boosting (86% accuracy) while documenting computational trade-offs and overfitting characteristics crucial for production deployment.
+Developed a framework for comparing ML model families, achieving optimal performance with Gradient Boosting (86% accuracy) while documenting computational trade-offs and overfitting characteristics crucial for production deployment.
 
 ## Key Findings
 
