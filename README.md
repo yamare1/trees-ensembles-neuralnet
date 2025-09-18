@@ -2,7 +2,7 @@
 
 Comprehensive analysis comparing decision trees, ensemble methods, and neural networks on structured tabular data. Demonstrates systematic model evaluation and selection techniques applicable to quantitative modeling and risk assessment.
 
-## Executive Summary
+## Summary
 
 Developed a rigorous framework for comparing ML model families, achieving optimal performance with Gradient Boosting (86% accuracy) while documenting computational trade-offs and overfitting characteristics crucial for production deployment.
 
