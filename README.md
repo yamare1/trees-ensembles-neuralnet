@@ -45,7 +45,7 @@ Benchmarked training and inference times across model families:
 ## Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/model-comparison-framework.git
+git clone https://github.com/yourusername/trees-ensembles-neuralnet.git
 cd model-comparison-framework
 
 # Create environment
