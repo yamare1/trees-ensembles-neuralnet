@@ -1,6 +1,6 @@
 # Model Comparison Framework: Trees, Ensembles, and Neural Networks
 
-Comprehensive analysis comparing decision trees, ensemble methods, and neural networks on structured tabular data. Demonstrates systematic model evaluation and selection techniques applicable to quantitative modeling and risk assessment.
+Comprehensive analysis comparing decision trees, ensemble methods, and neural networks on structured tabular data.
 
 ## Summary
 
@@ -41,16 +41,3 @@ Benchmarked training and inference times across model families:
 - Decision trees: Fastest training, instant inference
 - Ensemble methods: Moderate training, parallelizable
 - Neural networks: Slowest training, batch-optimized inference
-
-## Installation
-```bash
-# Clone repository
-git clone https://github.com/yourusername/trees-ensembles-neuralnet.git
-cd model-comparison-framework
-
-# Create environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install package
-pip install -e .
